@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2022.12.18)  29 DEC 2022 11:40
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2022.12.18)  29 DEC 2022 14:17
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -480,11 +480,11 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 )
 LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 8
-4.
+8.
 (/usr/share/texmf/tex/latex/lm/ts1lmr.fd
 File: ts1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-Underfull \hbox (badness 10000) in paragraph at lines 130--135
+Underfull \hbox (badness 10000) in paragraph at lines 132--137
 []
  []
 
@@ -492,13 +492,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 130--135
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2]
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 249.
+(Font)              <10> on input line 251.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 249.
+(Font)              <7> on input line 251.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 249.
+(Font)              <5> on input line 251.
 
-LaTeX Warning: Command \` invalid in math mode on input line 300.
+LaTeX Warning: Command \` invalid in math mode on input line 302.
 
 [3] [4] [5] [6] [7] [8] (./CV---Guillaume-Guénard---Francais---Académique.aux
 ) ) 
@@ -520,10 +520,10 @@ fonts/type1/public/lm/lmbxi10.pfb></usr/share/texmf/fonts/type1/public/lm/lmmi1
 usr/share/texmf/fonts/type1/public/lm/lmr7.pfb></usr/share/texmf/fonts/type1/pu
 blic/lm/lmri10.pfb>
 Output written on CV---Guillaume-Guénard---Francais---Académique.pdf (8 pages
-, 246773 bytes).
+, 246749 bytes).
 PDF statistics:
- 208 PDF objects out of 1000 (max. 8388607)
- 176 compressed objects within 2 object streams
+ 209 PDF objects out of 1000 (max. 8388607)
+ 177 compressed objects within 2 object streams
  35 named destinations out of 1000 (max. 500000)
  32873 words of extra memory for PDF output out of 35830 (max. 10000000)
 

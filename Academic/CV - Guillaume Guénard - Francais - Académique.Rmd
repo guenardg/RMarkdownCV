@@ -3,9 +3,9 @@ title: "Curriculum Vitae"
 author: "Guillaume Guénard"
 date: 'Compilation: `r format(Sys.time(), "%Y-%m-%d")`'
 output:
+  word_document: default
   html_document: default
   pdf_document: default
-  word_document: default
 ---
 
 ```{r setup, include=FALSE}

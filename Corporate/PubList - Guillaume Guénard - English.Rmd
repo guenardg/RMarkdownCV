@@ -3,9 +3,9 @@ title: "List of achievements"
 author: "Guillaume Guénard, Ph. D. Biology"
 date: 'Compiled: `r format(Sys.time(), "%Y-%m-%d")`'
 output:
-  html_document: default
-  word_document: default
   pdf_document: default
+  word_document: default
+  html_document: default
 ---
 
 ```{r setup, include=FALSE}
