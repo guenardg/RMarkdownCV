@@ -1,8 +1,8 @@
 ff1f5cedc4bfdd8bbe7ba6e19e385851ea603d56  ./.gitignore
-39301b015285aa223abe0f24fc33ffeeb1d845ca  ./.Rhistory
+bdd35c6a07a0a0d20f3f2e9f6c2712285bc1c85b  ./.Rhistory
 9f77bd9177e6a04f3f4310eb539df596ef6e20e4  ./.RData
-5be92b37637cfeee2599f916bd1840cabf9b7f8e  ./SHA1
-212235fa2042cf92525b54f960e2c29be1b40e1e  ./SHA256
+6d16d7550d2b144830b0073e69647a47d63325f0  ./SHA1
+97c5644e1e05d3d9cf7c8bdb8dfddc489dec3354  ./SHA256
 3d9533e4e6799e7c13158cf34e820601766680b0  ./README.md
 1d7770599e5d881e0b7c5ca0af16ff061f26c3e6  ./.git/objects/ae/cc5fd6aeca40efab7391670836943e77e7bce5
 e0a95ee3db40710872e39671eada229510a758bb  ./.git/objects/e1/3a0d828499aa7612c9e58df2ed43c73479b352
@@ -21,6 +21,7 @@ e1a72d3a82e89f3a0e5f7acfd7c27239ece85cfa  ./.git/objects/fc/3dc55b7e3c86e3228d44
 6607233b2d64063b12f7b2c3f0bb629704b25d2e  ./.git/objects/79/2c64dd887b7020893cb422fe5ea8b92c9c36e9
 0ac47134e2a6f45cb7ec73a7dcd6fb9777d77a37  ./.git/objects/ea/4340c479ecbb23d8813dda9baf33d1c36d3f9f
 6c64b87e1ce40f304d0e9c475cfb4c1fd9c63b6d  ./.git/objects/95/705e7cc08dbdc7e08239028723b558a29a08c6
+b7bb3b32f8a52653726824ede5fc8e1b236a7408  ./.git/objects/56/873ccca96f7036a1513e1f15eab5df58a57ac3
 c72af450b37c74fa31b1deba964638b1c50f6c76  ./.git/objects/d2/6a33f8dc18e2344a3143348a26ba902653e09b
 5ff45e1f6946897cb9a7c3e7daafe3a270b0a643  ./.git/objects/cf/ee68596d27092d435c75f847490dbca16fc1a7
 3785a878dcb703d9009a4336a3499f714b000cea  ./.git/objects/8c/62f7a5530e52a4d28ace8887df1d10900809e6
@@ -31,6 +32,7 @@ ed99e320731043c319a5372b13f7d72967d408c4  ./.git/objects/d4/39addd263da7376d65e7
 5c31270ba7eba22dcc916eb46a4746320f869fcf  ./.git/objects/04/6959c3812ef1b118f9defd464009f19e638daa
 63ca87595c0f9deebb792d8bca1a1aade6cff2e4  ./.git/objects/da/c3ac4632cbd433794872a21396e85d56b0eadd
 8bb45bcca3f3acde12b13f70aa46a267497e4318  ./.git/objects/d8/7c1ce17fc029ae992bfacdbccf475f56d5ca71
+a8c61f19902dca168fa4dc7721908e9a46618fdb  ./.git/objects/d8/58487eaedf684ff7c745081346f250bb49a536
 fb756c96e1b568b7ce3cde7689db46e4239e5bf3  ./.git/objects/aa/a923951bb47ef5d6efc486f1ebfaf9da976cea
 6fc68246cdc6a2053f01955ddfd3bdf94de0a6ae  ./.git/objects/10/453d66e81f607f9b62600278e0a4ccbb7b4a94
 5df09e14d5c03ae61a480b3b5fee366bec5dcfe2  ./.git/objects/4b/b0604d68218a21509724ce960b5d8d5b1ba70d
@@ -56,9 +58,12 @@ ba6cee6aa4c460fe6a6bb50c32568ab5c26891c3  ./.git/objects/35/a8ce93f1517e5e13d982
 25d8a6bdde77b873b55ed3e470398ceb595b80d2  ./.git/objects/pack/pack-7aec27bddccebd8569304e3a2308a859f272184b.idx
 ecfa80531ce5a152810f6054a5715518c152eaff  ./.git/objects/f5/30ffd501b09570c1d738b9a2c8526080697338
 2f006842c9d8c81b24e2fa298b217aa729347d3c  ./.git/objects/38/7869db214d245e2c5b15eb328816b50171d0af
+46dfcf28b1872043815fa35bc39c7c2bd566c59b  ./.git/objects/38/034f4e33966b0732bf8d39a7333d5ca79bc0df
 98ca543c6996be6f68364c29250c7ecb4f27cb92  ./.git/objects/d6/727c736930945c0b80503d5c8e0dae3cadd483
 487005e8f9fe45aecf4566a21b0437ce6b83c2f8  ./.git/objects/43/930eaa772eee58a0a1702bfe1e45ed0fea0e67
+2d39d79fcdb97a120f1e99918b9c9706e34ee1a5  ./.git/objects/c1/1e0d314c88ad18cf8469538a10f4ae7cc4d728
 67fcdab2feb2fde96203700a32e263ffab47e3ef  ./.git/objects/a4/32692a2372f51a2ee224a36e6819fd9c014dfb
+73595c4ee3152e8f3aa62295773183953c8736cc  ./.git/objects/91/39acd64fc8da10cb2713a1b0a08bb7efe0f6d6
 edca9c19ab3856271f98fc5f9db7e6b0dc0fff17  ./.git/objects/1f/1f009162f600f76fab0a7646db90042af9890f
 be32a592326e70c06044efb7172fa54c1fa00e94  ./.git/objects/ff/bfb0e6e6e1f4489422857ff4962ccdb2e60d45
 3bda8b4ee20bd985e97a18eeb202ebdb39cb4f29  ./.git/objects/62/8c45d95603e5425e52a786dc3f1fb7ce9fa6c4
@@ -66,13 +71,14 @@ be32a592326e70c06044efb7172fa54c1fa00e94  ./.git/objects/ff/bfb0e6e6e1f448942285
 42e06df5ddce24f07238e0ec0aaa92178414ee57  ./.git/objects/4f/012802356e99d384249637e872eedf1fee8204
 f02c09edfe77ee3779e254646b8464be18dcde58  ./.git/objects/4f/decbb64230b8815ac51d271e0ef7b6e81e533b
 0dc861ded4269e0dcf2ce6847f5adc53cfd682f3  ./.git/objects/98/2d2c9d9df32e99fd57fc38a183ea9b41c89c3f
+84708cd91a4aeae6b051d014a0f2d8ca6cbb2022  ./.git/objects/7a/3ae20af5bf4388db70402d092dd917120602f5
 bd7298dc63cb750978c5affb557b16576713361e  ./.git/objects/15/59470cadce5c05538cc98a4562a4121aa5e5ad
 9635f1b7e12c045212819dd934d809ef07efa2f4  ./.git/description
 c879df015d97615050afa7b9641e3352a1e701ac  ./.git/info/exclude
 acbaef275e46a7f14c1ef456fff2c8bbe8c84724  ./.git/HEAD
-2b9556a3851281fd0964ee1780721bf69a7c0909  ./.git/refs/heads/master
-2b9556a3851281fd0964ee1780721bf69a7c0909  ./.git/refs/remotes/udem/master
-2b9556a3851281fd0964ee1780721bf69a7c0909  ./.git/refs/remotes/origin/master
+12f8f603b0307054f065ee0cc76b7e32856e5770  ./.git/refs/heads/master
+12f8f603b0307054f065ee0cc76b7e32856e5770  ./.git/refs/remotes/udem/master
+12f8f603b0307054f065ee0cc76b7e32856e5770  ./.git/refs/remotes/origin/master
 d9427cda09aba1cdde5c69c2b13c905bddb0bc51  ./.git/refs/remotes/origin/HEAD
 143b89f932929369a4ac3351f531b0e2818a24ca  ./.git/packed-refs
 b009f3802b1f9da576d06d4519683eb5d09e928d  ./.git/config
@@ -89,12 +95,12 @@ a79d057388ee2c2fe6561d7697f1f5efcff96f23  ./.git/hooks/pre-commit.sample
 118ff5509f187039734d04456bf01e44c933ac19  ./.git/hooks/fsmonitor-watchman.sample
 4de88eb95a5e93fd27e78b5fb3b5231a8d8917dd  ./.git/hooks/applypatch-msg.sample
 ee1ed5aad98a435f2020b6de35c173b75d9affac  ./.git/hooks/commit-msg.sample
-948e09d7ff7909580402db5604354d8653099517  ./.git/index
-2cd957845d37bf6596ff2904b48666886ba9f92b  ./.git/COMMIT_EDITMSG
-7ddb0ce38fd15b02d4b237cb363c7d510c9db542  ./.git/logs/HEAD
-7ddb0ce38fd15b02d4b237cb363c7d510c9db542  ./.git/logs/refs/heads/master
-aa04f74c3cc06ae522c128a17e6c0f730e8c594f  ./.git/logs/refs/remotes/udem/master
-cb0569a29b37c468bd626fafa7728cb9e7d41deb  ./.git/logs/refs/remotes/origin/master
+3e53335bd6e058c608bc049e61295bbec8e49d54  ./.git/index
+a02873254821c929a21c337191a8b66fb64c3e43  ./.git/COMMIT_EDITMSG
+3f0d04cdfcf367ce9aa65ade66e0e1d3b21349f7  ./.git/logs/HEAD
+3f0d04cdfcf367ce9aa65ade66e0e1d3b21349f7  ./.git/logs/refs/heads/master
+46779a7e5bb938305cb5b904d2fadacfc71b079a  ./.git/logs/refs/remotes/udem/master
+5855bb4718d6e4c9860b88a30202bad7693bc1e9  ./.git/logs/refs/remotes/origin/master
 7abe571f24a00dde79be4ce58eb5ec15218a7640  ./.git/logs/refs/remotes/origin/HEAD
 5fa820ff96db286f46128ba5c1d8948fc230725a  ./Academic/CV---Guillaume-Guénard---English---Academic.pdf
 543645d5247ca439112df849ac14eeb0b5e6e15f  ./Academic/CV---Guillaume-Guénard---English---Academic.html
@@ -106,21 +112,21 @@ f7c478318f90945c6d3de9369a0bc1b6f52f4e04  ./Academic/CV---Guillaume-Guénard---F
 92c0057fc806c6a44eccf050c5e7def5d8350ee6  ./Academic/CV - Guillaume Guénard - English - Academic.Rmd
 119c069f02ba66c94e37419eb63bc02483f535a9  ./CVcontents.yml
 2c515297ec892dc69a83a5211d635da7e2bc6b26  ./CV.R
-e01f3d6c6b5bbf22a7069828bbf6872ab4a6b7c2  ./Corporate/CV---Guillaume-Guénard---English---Corporate.docx
-313d59db5bbce256dccaae8fb8e7bef5dc06cc78  ./Corporate/CV - Guillaume Guénard - Francais - Corporatif.Rmd
+0e71f390bf4372140cbce305e57354213b2a2f5a  ./Corporate/CV---Guillaume-Guénard---English---Corporate.docx
+20e44f0435e77001c7526bdb919575ecf9367a28  ./Corporate/CV - Guillaume Guénard - Francais - Corporatif.Rmd
 70657996b681bb559fc89def7c52eb518f6b038a  ./Corporate/PubList---Guillaume-Guénard---Francais.docx
-d3995c552b37a2c38f84231f5f3fbc5c9060bced  ./Corporate/CV---Guillaume-Guénard---English---Corporate.html
-c96d63dcdd0b4da593aa933dc0edb8f1cdb9238d  ./Corporate/CV---Guillaume-Guénard---English---Corporate.pdf
-fc2025a0c62e2e682e7e09306e3864bdcb749465  ./Corporate/CV---Guillaume-Guénard---Francais---Corporatif.html
+26ce64414228de5893e272228cb8316e5916b5a9  ./Corporate/CV---Guillaume-Guénard---English---Corporate.html
+8bf41e7d100cc8f07a605b7ceaa21034e5ff88fa  ./Corporate/CV---Guillaume-Guénard---English---Corporate.pdf
+c0994956848b617e85339295d91a6a1377682b56  ./Corporate/CV---Guillaume-Guénard---Francais---Corporatif.html
 b914f97726c98a66d0eac2531f5d4471a2938c72  ./Corporate/PubList---Guillaume-Guénard---English.docx
 04ad424d26e3b6596d16f1b830cde488333f212c  ./Corporate/PubList - Guillaume Guénard - English.Rmd
-1cf467f124fe93e556ec712f028b35500691a7fc  ./Corporate/CV---Guillaume-Guénard---Francais---Corporatif.docx
-f7a7b5c588d77d85721fd129a173b6aeed6bc214  ./Corporate/CV - Guillaume Guénard - English - Corporate.Rmd
+518b9cfb1a80c707d51abae2aebbff02c3348a1c  ./Corporate/CV---Guillaume-Guénard---Francais---Corporatif.docx
+a3a6968051d33c1c5fd9dca037969bf31b27456c  ./Corporate/CV - Guillaume Guénard - English - Corporate.Rmd
 b21ae915c9e2e08f46a369709e3818828322c78b  ./Corporate/PubList---Guillaume-Guénard---English.pdf
 2f4a0f3d55b2796d53da4a08339b9d088bc6073d  ./Corporate/PubList - Guillaume Guénard - Francais.Rmd
 5d90a37bfa5b9e0912e825e3da90fc888c7d4543  ./Corporate/PubList---Guillaume-Guénard---English.html
 f58bbd7721e95cb29b99fbf5c96e9bedda8d1db5  ./Corporate/PubList---Guillaume-Guénard---Francais.html
 121f75f654ed23c7bc2d94eeec1e9504122916da  ./Corporate/PubList---Guillaume-Guénard---Francais.pdf
-0ceac3a4665311fe9763c1a740572629ff662c93  ./Corporate/CV---Guillaume-Guénard---Francais---Corporatif.pdf
+49659c5da9f0984ebfd0ee078a669dd73da32593  ./Corporate/CV---Guillaume-Guénard---Francais---Corporatif.pdf
 3b6657c7d08e922fd0392d17be439613ced551b5  ./cleanup.sh
 31a3d460bb3c7d98845187c716a30db81c44b615  ./LICENSE

@@ -3,9 +3,9 @@ title: "Curriculum Vitae"
 author: "Guillaume Guénard"
 date: 'Compiled: `r format(Sys.time(), "%Y-%m-%d")`'
 output:
-  word_document: default
   html_document: default
   pdf_document: default
+  word_document: default
 ---
 
 ```{r setup, include=FALSE}
@@ -163,6 +163,8 @@ Software
 : contribution in **`r length(contents$achievement$software)`** R language
 packages; maintainer for **`r sum(pkgmain)`** of them
 (`r enumerate(pkgname[pkgmain], and = ", and ")`).
+
+[List of achievements](PubList---Guillaume-Guénard---English.html)
 
 ---
 
