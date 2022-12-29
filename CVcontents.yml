@@ -1,9 +1,7 @@
 links:
-  - entry1:
-    label: ResearchGate
+  - label: ResearchGate
     url: https://www.researchgate.net/profile/Guillaume-Guenard
-  - entry2:
-    label: GitHub
+  - label: GitHub
     url: https://github.com/guenardg
 description:
   en: |
@@ -21,8 +19,7 @@ contact:
     2243 rue du Coteau, Saint-Lin-Laurentides QC, J5M 1Z9, Canada;
     cellulaire: (514) 707-9569
 interests:
-  - entry1:
-    en: |
+  - en: |
       Modelling the outcomes of spatial, temporal, and phylogenetic processes in
       aquatic ecology (lakes, rivers, wetlands and shores), ecotoxicology and
       ecohydraulics, and using that knowledge to make predictions.
@@ -31,15 +28,13 @@ interests:
       phylogénétiques en écologie aquatique (lacs, rivières, milieux humides et
       riverains), écotoxicologie et écohydraulique, et les utiliser dans un
       cadre prédictif.
-  - entry2:
-    en: |
+  - en: |
       Developing of computational methods and making them available to people as
       (open-source) computer software.
     fr: |
       Développer des méthodes de calcul et les rendre disponible à tous sous la
       forme d'outils informatiques (libre).
-  - entry3:
-    en: |
+  - en: |
       Estimation of bioenergetics and behaviour in space and time using, for
       example, video-cameras, chemical tracers, etc.
     fr: |
@@ -47,15 +42,13 @@ interests:
       dynamique des populations dans l'espace et dans le temps par
       l'utilisation de systèmes de stéréo-vidéo-caméras, traceurs chimiques,
       etc.
-  - entry4:
-    en: |
+  - en: |
       Development and validation of field sampling material and methods.
     fr: |
       Développement et validation de matériels et méthodes d'échantillonnage de
       terrain.
 skill:
-  - entry1:
-    en: |
+  - en: |
       Analysis of complex, sparse, or large data sets with state of the art and
       cutting edge methods to extract information useful to science (ecology,
       eco-toxicology, paleontology) or the industry (pharmaco-ecology, strain
@@ -65,8 +58,7 @@ skill:
       Analyser des jeux de données, avec des méthodes classiques ou à la fine
       pointe des connaissances actuelles afin d'en tirer les informations
       nécessaires à la science ou à l'industrie.
-  - entry2:
-    en: |
+  - en: |
       Building predictive and forecasting models using advanced methods and
       contextual descriptors such as space (spatial modelling), time or
       parenthood among species (phylogenetic modelling). These models can be
@@ -80,8 +72,7 @@ skill:
       entre espèces. Cibles: animaux, plantes, fongi, micro-organismes, etc.
       Situations environnementales: rivières, lacs, terres agricoles, forêts,
       littoraux, etc.
-  - entry3:
-    en: |
+  - en: |
       Experimental design of studies, planning of field works, execution and
       supervision of analyses, development of computer tools and automatized
       reporting for paper or web diffusion. Working together with people from
@@ -92,8 +83,7 @@ skill:
       rédaction automatisé de rapport pour diffusion sur papier ou Web.
       Travailler avec des gens ayant diverses spécialisations (ingénierie,
       finance, droit).
-  - entry4:
-    en: |
+  - en: |
       Development and validation of field sampling material and methods. Finding
       timely, elegant as well as cost-effective solutions to take up practical
       challenges.
@@ -101,8 +91,7 @@ skill:
       Développement et validation de matériel de mesure ou d'échantillonnage sur
       le terrain. Trouver rapidement des solutions à la fois élégantes et
       abordables pour relever des défis pratiques.
-  - entry5:
-    en: |
+  - en: |
       Outstanding aptitudes for communication and teaching with a strong sense
       of duty. Consciencious, open to new knowledge and experiences, and mindful
       of other's needs. Will support colleagues and readily take the lead when
@@ -435,8 +424,7 @@ teaching:
         Assister les étudiants de premier cycle dans leurs travaux en
         laboratoire, corriger les travaux hebdomadaires et les examens.
 paqs:
-  - entry1:
-    en: |
+  - en: |
       Programming (C/C++, R); development of R package (used for statistical
       analysis), including computer code (R, C/C++) and documentation;
       implementation and usage of relational databases using MySQL. I am
@@ -448,8 +436,7 @@ paqs:
       de la documentation; création et utilisation de bases de données
       relationnelles avec MySQL. Utilisation des systèmes d'exploitation
       compatibles POSIX (e.g. Linux, MacOS X, Unix).
-  - entry2:
-    en: |
+  - en: |
       Electronics: designing circuits and printed circuit boards (Eagle CAD),
       programming controller boards (Arduino environment
       http://www.arduino.cc/), self construction of personal computers from
@@ -461,8 +448,7 @@ paqs:
       Arduino: http://www.arduino.cc/), auto-construction d'ordinateurs
       personnelles, utilisation de logiciels de dessin assisté par ordinateur,
       impression 3D.
-  - entry3:
-    en: |
+  - en: |
       Organization comity member for the "$15^\mathrm{ième}$ Symposium du
       Département de Sciences Biologiques de l'Université de Montréal" (Biology
       department symposium: 60 oral presentations) 27 Jan. 2005.
@@ -470,16 +456,14 @@ paqs:
       Comité organisateur du $15^\mathrm{ième}$ Symposium du Département de
       Sciences Biologiques de l'Université de Montréal (60 présentations orales)
       27 jan. 2005.
-  - entry4:
-    en: |
+  - en: |
       President of the Association des Étudiants Chercheurs en Biologie de
       l'Université de Montréal (AECBUM; english: Association of Student
       Researchers in Biology), Oct. 2002 – Sept. 2003.
     fr: |
       Présidence de l'Association des Étudiants Chercheurs en Biologie de
       l'Université de Montréal (AECBUM), oct. 2002 – sept. 2003.
-  - entry5:
-    en: |
+  - en: |
       Scientific adviser and treasurer of the Société des Amis du Biodôme de
       Montréal (SABM; Biodôme de Montréal is a zoological garden devoted to
       ecosystems, [website](http://www2.ville.montreal.qc.ca/biodome/), Sept.
@@ -488,15 +472,13 @@ paqs:
       Conseiller scientifique et trésorier de la Société des Amis du Biodôme de
       Montréal (SABM: http://www2.ville.montreal.qc.ca/biodome/), sept. 2000 --
       août 2002.
-  - entry6:
-    en: |
+  - en: |
       Scuba diver certifications (CMAS since 15-05-2000, PADI Lake since
       17-03-2000).
     fr: |
       Certifications de plongée avec bouteilles (CMAS, depuis 15-05-2000; PADI
       Lac, depuis 17-03-2000).
-  - entry7:
-    en: "Class 5 (car) driver license (Québec, since 1993)."
+  - en: "Class 5 (car) driver license (Québec, since 1993)."
     fr: |
       Permis de conduite de classe 5 (véhicule de promenade, Québec, depuis
       1993).
