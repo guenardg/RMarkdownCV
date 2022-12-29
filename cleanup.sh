@@ -9,3 +9,5 @@ rm -f Corporate/*.log
 rm -f Corporate/.Rhistory
 rm -f Corporate/.RData
 find -type f \( -not -name "MD5" \) -exec md5sum '{}' \; > MD5
+find -type f \( -not -name "MD5" \) -exec sha1sum '{}' \; > SHA1
+find -type f \( -not -name "MD5" \) -exec sha256sum '{}' \; > SHA256
