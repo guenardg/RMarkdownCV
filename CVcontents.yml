@@ -1,0 +1,1315 @@
+links:
+  - entry1:
+    label: ResearchGate
+    url: https://www.researchgate.net/profile/Guillaume-Guenard
+  - entry2:
+    label: GitHub
+    url: https://github.com/guenardg
+description:
+  en: |
+    Research scientific in biology, biostatistics, bioinformatics, applied
+    mathematics, spatial analysis, machine learning, and data science
+  fr: |
+    Scientific de recherche en biologie, biostatistiques, bioinformatique,
+    mathématiques appliquées, analyse spatiale, apprentissage automatique et
+    science des données
+contact:
+  en: |
+    2243 rue du Coteau, Saint-Lin-Laurentides QC, J5M 1Z9, Canada;
+    cell: (514) 707-9569
+  fr: |
+    2243 rue du Coteau, Saint-Lin-Laurentides QC, J5M 1Z9, Canada;
+    cellulaire: (514) 707-9569
+interests:
+  - entry1:
+    en: |
+      Modelling the outcomes of spatial, temporal, and phylogenetic processes in
+      aquatic ecology (lakes, rivers, wetlands and shores), ecotoxicology and
+      ecohydraulics, and using that knowledge to make predictions.
+    fr: |
+      Modéliser les conséquences des processus spatiaux, temporels et
+      phylogénétiques en écologie aquatique (lacs, rivières, milieux humides et
+      riverains), écotoxicologie et écohydraulique, et les utiliser dans un
+      cadre prédictif.
+  - entry2:
+    en: |
+      Developing of computational methods and making them available to people as
+      (open-source) computer software.
+    fr: |
+      Développer des méthodes de calcul et les rendre disponible à tous sous la
+      forme d'outils informatiques (libre).
+  - entry3:
+    en: |
+      Estimation of bioenergetics and behaviour in space and time using, for
+      example, video-cameras, chemical tracers, etc.
+    fr: |
+      Estimer l'utilisation de l'énergie, le comportement des organismes et la
+      dynamique des populations dans l'espace et dans le temps par
+      l'utilisation de systèmes de stéréo-vidéo-caméras, traceurs chimiques,
+      etc.
+  - entry4:
+    en: |
+      Development and validation of field sampling material and methods.
+    fr: |
+      Développement et validation de matériels et méthodes d'échantillonnage de
+      terrain.
+skill:
+  - entry1:
+    en: |
+      Analysis of complex, sparse, or large data sets with state of the art and
+      cutting edge methods to extract information useful to science (ecology,
+      eco-toxicology, paleontology) or the industry (pharmaco-ecology, strain
+      screening, feature selection) about physical processes or organisms or any
+      sizes.
+    fr: |
+      Analyser des jeux de données, avec des méthodes classiques ou à la fine
+      pointe des connaissances actuelles afin d'en tirer les informations
+      nécessaires à la science ou à l'industrie.
+  - entry2:
+    en: |
+      Building predictive and forecasting models using advanced methods and
+      contextual descriptors such as space (spatial modelling), time or
+      parenthood among species (phylogenetic modelling). These models can be
+      targeted at any type of organisms such as animals, plants, fungi,
+      microorganisms, for examples, and in a variety of environmental stages
+      such as rivers, lakes, farm lands, forest lands, sea shores, soil, petri
+      dish, etc.
+    fr: |
+      Construire des modèles prédictifs et utilisant des méthodes avancées et
+      des descripteurs contextuels comme l'espace, le temps ou la parenté
+      entre espèces. Cibles: animaux, plantes, fongi, micro-organismes, etc.
+      Situations environnementales: rivières, lacs, terres agricoles, forêts,
+      littoraux, etc.
+  - entry3:
+    en: |
+      Experimental design of studies, planning of field works, execution and
+      supervision of analyses, development of computer tools and automatized
+      reporting for paper or web diffusion. Working together with people from
+      various backgrounds (engineering, finance, law).
+    fr: |
+      Design expérimental d'études, planification du travail de terrain,
+      exécution et supervision des analyses, création d'outils informatiques et
+      rédaction automatisé de rapport pour diffusion sur papier ou Web.
+      Travailler avec des gens ayant diverses spécialisations (ingénierie,
+      finance, droit).
+  - entry4:
+    en: |
+      Development and validation of field sampling material and methods. Finding
+      timely, elegant as well as cost-effective solutions to take up practical
+      challenges.
+    fr: |
+      Développement et validation de matériel de mesure ou d'échantillonnage sur
+      le terrain. Trouver rapidement des solutions à la fois élégantes et
+      abordables pour relever des défis pratiques.
+  - entry5:
+    en: |
+      Outstanding aptitudes for communication and teaching with a strong sense
+      of duty. Consciencious, open to new knowledge and experiences, and mindful
+      of other's needs. Will support colleagues and readily take the lead when
+      called for.
+    fr: |
+      Compétences transversales: aptitude hors norme à communiquer et à
+      l'enseigement. Consciencieux, ouvert d'esprit, à l'écoute des besoins et
+      assortie d'un grand sens du devoir. Épauler mes collègues et prêt à
+      prendre le leadership lorsque approprié.
+experience:
+  - position:
+     en: Biologist II
+     fr: Biologiste II
+    date: 2022-09 -- _nunc_
+    place:
+      en: |
+        Fisheries and Océans Canada, Institut Maurice-Lamontagne, Mont-Joli QC,
+        Canada
+      fr: |
+        Pêche et océans Canada, Institut Maurice-Lamontagne, Mont-Joli QC,
+        Canada
+    work:
+      en: |
+        Fish and Fish Habitat Protection, Regulatory review, Regional Ecosystems
+        Mamagement Branch -- Mining projects.
+      fr: |
+        Protection du poisson et du son habitat, Examen réglementaires,
+        Direction régionale de gestion des écosystèmes -- Projets miniers.
+    supervisor: Simon Trépanier
+  - position:
+      en: Aquatic biologist II
+      fr: Biologiste aquatique II
+    date: 2020-09 -- 2021-05
+    place:
+      en: |
+        Fisheries and Océans Canada, Institut Maurice-Lamontagne, Mont-Joli QC,
+        Canada
+      fr: |
+        Pêche et océans Canada, Institut Maurice-Lamontagne, Mont-Joli QC,
+        Canada
+    work:
+      en: |
+        Project SPERA: valuation of data sets from commercial stock assessment
+        surveys towards ecosystem-based modelling.
+      fr: |
+        Projet SPERA: mise en valeur de jeux de données provenant de relevés de
+        stocks commerciaux dans le but de promouvoir le développement d'outils
+        de modélisation et de gestion écosystémiques.
+    supervisor: Cédric Juillet
+  - position:
+      en: Research agent
+      fr: Agent de recherche
+    date: 2017-09 -- 12, 2019-07 -- 2020-09
+    place:
+      en: |
+        Département de sciences biologiques, Université de Montréal, Montreal
+        QC, Canada
+      fr: |
+        Département de sciences biologiques, Université de Montréal, Montréal
+        QC, Canada
+    work:
+      en: |
+        Development in numerical ecology: artificial intelligence and remote
+        sensing to take up the challenges of observational ecology; reticulated
+        trait evolution for species and ecosystem conservation, paleontology,
+        and ecotoxicology.
+      fr: |
+        Développent en écologie numérique: intelligence artificielle et
+        télédétection pour relever les défis de l'écologie de terrain; évolution
+        réticulée des traits pour la conservation des espèces et des
+        écosystèmes, la paléontologie et l'écotoxicologie.
+    supervisor: Pierre Legendre
+  - position:
+      en: Project leader in environmental modelling
+      fr: Chargé de projet en modélisation environnementale
+    date: 2016-01 -- 2017-09, 2018-01 -- 2019-07
+    place:
+      en: |
+        Environment and Climate Change Canada, Canadian Weather Service,
+        Hydrology and Ecohydraulics Section, Quebec City QC, Canada
+      fr: |
+        Environnement et changement climatique Canada, Service météorologique
+        canadien, Section hydrologie et écohydraulique, Ville de Québec, Canada
+    work:
+      en: |
+        Development of numerical habitat models to assess the impact of river
+        flow management practices on animal and plant species.
+      fr: |
+        Développement du modèles numériques d'habitat pour quantifier l'impact
+        des pratiques de gestion de l'écoulement de l'eau sur la faune et la
+        flore.
+    supervisor: Jean Morin
+  - position:
+      en: Research Associate
+      fr: Associé de recherche
+    place:
+      en: |
+        Département de sciences biologiques, Université de Montréal, Montreal
+        QC, Canada
+      fr: |
+        Département de sciences biologiques, Université de Montréal, Montréal
+        QC, Canada
+    date: 2015-05 -- 2016-01
+    work:
+      en: |
+        Development of multiple species and spatially-explicit fish habitat
+        models to assess the influence of hydro-electric dam operation on
+        freshwater fishes.
+      fr: |
+        Réseau Hydronet et laboratoire de Pierre Legendre «Développement et
+        évaluation de méthodes d'analyse de la distribution spatiale des
+        organismes aquatiques»
+    supervisor: Daniel Boisclair & Pierre Legendre
+  - position:
+      en: Post-doctoral fellow
+      fr: Stagiaire post-doctoral
+    date: 2013-03 -- 2015-04
+    place:
+      en: |
+        Département de sciences biologiques, Université de Montréal, Montreal
+        QC, Canada
+      fr: |
+        Département de sciences biologiques, Université de Montréal, Montréal
+        QC, Canada
+    work:
+      en: |
+        Development and evaluation of analysis methods in phylogenetics
+        modelling and landscape genetics.
+      fr: |
+        Réseau Hydronet, projet: «Utilisation de méthodes d'analyse et de
+        modélisation spatiale et phylogénétique pour expliquer et prédire la
+        distribution des poissons en rivière dans un contexte de production
+        hydro-électrique».
+    supervisor: Daniel Boisclair
+  - position:
+      en: Post-doctoral fellow
+      fr: Stagiaire post-doctoral
+    date: 2010-05 -- 2013-02
+    place:
+      en: |
+        Département de sciences biologiques, Université de Montréal, Montreal
+        QC, Canada
+      fr: |
+        Département de sciences biologiques, Université de Montréal, Montréal
+        QC, Canada
+    work:
+      en: |
+        Development and evaluation of analysis methods in phylogenetics
+        modelling and landscape genetics.
+      fr: |
+        Développement et évaluation de méthodes d'analyse en phylogénétique et
+        génétique du paysage.
+    supervisor: Pierre Legendre
+  - position:
+      en: Post-doctoral fellow
+      fr: Stagiaire post-doctoral
+    date: 2008-04 -- 2010-03
+    place:
+      en: Université Paul-Sabatier, Toulouse, France
+      fr: Université Paul-Sabatier, Toulouse, France
+    work:
+      en: |
+        Development and application of methods to incorporate spatial and
+        phylogenetic processes in assessing the impact of toxic stress on
+        aquatic community structure and biodiversity. Involved in a European
+        research training network (Keybioeffects) whose goal is to study the
+        relationships between key pollutants on the biodiversity of European
+        rivers.
+      fr: |
+        Développement et application de méthodes pour la prise en compte des
+        processus spatiaux et phylogénétiques dans la mesure de l'impact du
+        stress toxique sur la structure des communautés aquatiques et leur
+        biodiversité. Projet Européen «Marie-Curie research training network
+        Keybioeffects» dont le but est d'étudier les relations entre la
+        présence de polluants clés sur la biodiversité des cours d'eau.
+    supervisor: Sovanarath Lek
+  - position:
+      en: Field work assistant
+      fr: Assistant de travaux de terrain
+    date: 1999-05 -- 08
+    place:
+      en: |
+        Département de sciences biologiques, Université de Montréal, Montreal
+        QC, Canada
+      fr: |
+        Département de sciences biologiques, Université de Montréal, Montréal
+        QC, Canada
+    work:
+      en: |
+        Sampling the distribution of juvenile Atlantic salmon and physical
+        habitat variables in Les Escoumins River (QC, Canada). The purpose of
+        that study was to model the effect of fluctuating water flow on the
+        availability of suitable habitat for juvenile Atlantic salmon.
+      fr: |
+        Échantillonnage de la distribution des tacons de saumon de l'Atlantique
+        (_Salmo salar_) et de descripteurs physiques de leur habitat dans la
+        rivière Les Escoumins (Saguenay, QC, Canada). Le but de cette étude
+        était de modéliser l'effet des fluctuations de débit sur la
+        disponibilité des habitats propices aux tacons.
+    supervisor: Daniel Boisclair
+  - position:
+      en: Field work assistant
+      fr: Assistant de travaux de terrain
+    date: 1998-05 -- 08
+    place:
+      en: |
+        Département de sciences biologiques, Université de Montréal, Montreal
+        QC, Canada
+      fr: |
+        Département de sciences biologiques, Université de Montréal, Montréal
+        QC, Canada
+    work:
+      en: |
+        Sampling the daytime and nighttime distribution of fish communities
+        inhabiting three lakes of the Laurentian region (QC, Canada), and
+        post-processing the data. The purpose of that study was to quantify the
+        influence of the moon phase on the intensity of the daily
+        onshore-offshore fish migrations across different communities.
+      fr: |
+        Échantillonnage de jour et de nuit de la distribution des communautés de
+        poissons habitant trois lacs des Laurentides (Québec, Canada) et
+        post-traitement des données hydro-acoustiques. Le but de cette étude
+        était de quantifier l'influence des phases de la lune sur l'intensité
+        des migrations journalières des poissons de différentes communautés.
+    supervisor: Daniel Boisclair
+education:
+  - degree:
+      en: Doctor of Philosophy (_Ph. D._) in Biology
+      fr: Doctorat de phylosophie (_Ph. D._) en biologie
+    ending: 2008-08
+    institution: Université de Montréal
+    description:
+      en: |
+        Thesis: Utilisation de l'énergie chez l'omble chevalier
+        (_Salvelinus alpinus_): importance relative des mécanismes dépendants de
+        la densité, de la diversité intra-spécifique et de la présence de
+        compétiteurs. _English_: Bioenergetics of Arctic charr
+        (_Salvelinus alpinus_): relative importance of density-dependant
+        mechanisms, among-populations diversity, and inter-specific competition
+        ([LINK](https://doi.org/10.13140/RG.2.1.4875.1525)).
+      fr: |
+        Thèse: Utilisation de l'énergie chez l'omble chevalier
+        (_Salvelinus alpinus_): importance relative des mécanismes dépendants de
+        la densité, de la diversité intra-spécifique et de la présence de
+        compétiteurs ([LIEN](https://doi.org/10.13140/RG.2.1.4875.1525)).
+    director: Daniel Boisclair
+  - degree:
+      en: Master of science (_M. Sc._) in Biology
+      fr: Maîtrise de science (_M. Sc._) en biologie
+    ending: 2002-01
+    institution: Université de Montréal
+    description:
+      en: Transferred to a _Ph. D._ program.
+      fr: Transféré à un programme de _Ph. D._
+    director: Daniel Boisclair
+  - degree:
+      en: Bachelor of science (_B. Sc._) in Biology
+      fr: Bachalauréat de science (_B. Sc._) en biologie
+    ending: 2000-05
+    institution: Université de Montréal
+award:
+  - name:
+      en: NSERC Postgraduate Scholarship D
+      fr: CRSNG Bourse ES B
+    date: 2003-05 -- 2005-04
+    amount: $21\,000\,\$/a$
+  - name:
+      en: NSERC Postgraduate Scholarship M
+      fr: CRSNG Bourse ES A
+    date: 2000-05 -- 2002-04
+    amount: $19\,500\,\$/a$
+  - name:
+      en: NSERC Undergraduate research student award
+      fr: CRSNG Bourse de premier cycle
+    date: 1999-05 -- 08
+    amount: $5\,000\,\$$
+teaching:
+  - assignment:
+      en: "Chief laboratory/field work instructor (BIO-2476: Ichthyology)"
+      fr: "Chef démonstrateur (BIO-2476: Ichtyologie)"
+    date: 2002 -- 2006
+    place:
+      en: Université de Montréal, Montreal, Canada
+      fr: Université de Montréal, Montréal, Canada
+    task:
+      en: |
+        Laboratory lecture/instruction, organization and supervision of the
+        laboratory and field works. Supervision of instructor teams (4 to 6
+        persons). Preparing and correcting examinations.
+      fr: |
+        Préparer et donner les laïus, organiser et superviser les travaux en
+        laboratoire et sur le terrain. Entraînement et supervision des équipes
+        de démonstrateurs (4 à 6 personnes). En charge de la préparation et de
+        la correction des examens.
+    supervisor: "Daniel Boisclair"
+  - assignment:
+      en: "Chief laboratory instructor (BIO-1434: Zoology)"
+      fr: "Chef démonstrateur (BIO-1434: Biodiversité II)"
+    date: 2002 -- 2003
+    place:
+      en: Université de Montréal, Montreal, Canada
+      fr: Université de Montréal, Montréal, Canada
+    task:
+      en: |
+        Laboratory lecture/instruction, organization and supervision of the
+        laboratory works. Supervision of instructor teams (3 to 4 persons).
+        Preparing and correcting examinations.
+      fr: |
+        Préparer et donner les laïus, organiser et superviser les travaux en
+        laboratoire. Entraînement et supervision des équipes de démonstrateurs
+        (3 à 4 personnes). En charge de la préparation et de la correction des
+        examens.
+    supervisor: "Bernard Angers"
+  - assignment:
+      en: |
+        Laboratory instructor (BIO-1334: Phycology, Mycology, and Botany and
+        BIO-1154: Cell Biology)
+      fr: |
+        Démonstrateur (BIO-1334: Biodiversité I et BIO-1154: Biologie
+        cellulaire)
+    date: 2000
+    place:
+      en: Université de Montréal, Montreal, Canada
+      fr: Université de Montréal, Montréal, Canada
+    task:
+      en: |
+        Assisting undergraduate students in their laboratory works, correcting
+        works and examinations.
+      fr: |
+        Assister les étudiants de premier cycle dans leurs travaux en
+        laboratoire, corriger les travaux hebdomadaires et les examens.
+paqs:
+  - entry1:
+    en: |
+      Programming (C/C++, R); development of R package (used for statistical
+      analysis), including computer code (R, C/C++) and documentation;
+      implementation and usage of relational databases using MySQL. I am
+      familiar with POSIX compliant operating systems (e.g. Linux, MacOS X,
+      Unix).
+    fr: |
+      Programmation (C/C++, R); développement de bibliothèques en langage R
+      (utilisés en analyse statistique) comprenant du code source (R, C/C++) et
+      de la documentation; création et utilisation de bases de données
+      relationnelles avec MySQL. Utilisation des systèmes d'exploitation
+      compatibles POSIX (e.g. Linux, MacOS X, Unix).
+  - entry2:
+    en: |
+      Electronics: designing circuits and printed circuit boards (Eagle CAD),
+      programming controller boards (Arduino environment
+      http://www.arduino.cc/), self construction of personal computers from
+      separate components, using Computer Assisted Design (CAD) software, 3D
+      printing.
+    fr: |
+      Électronique: design de circuits électroniques et de plaques de circuit
+      imprimés (Eagle CAD), programmation de microcontrolleur (environnement
+      Arduino: http://www.arduino.cc/), auto-construction d'ordinateurs
+      personnelles, utilisation de logiciels de dessin assisté par ordinateur,
+      impression 3D.
+  - entry3:
+    en: |
+      Organization comity member for the "$15^\mathrm{ième}$ Symposium du
+      Département de Sciences Biologiques de l'Université de Montréal" (Biology
+      department symposium: 60 oral presentations) 27 Jan. 2005.
+    fr: |
+      Comité organisateur du $15^\mathrm{ième}$ Symposium du Département de
+      Sciences Biologiques de l'Université de Montréal (60 présentations orales)
+      27 jan. 2005.
+  - entry4:
+    en: |
+      President of the Association des Étudiants Chercheurs en Biologie de
+      l'Université de Montréal (AECBUM; english: Association of Student
+      Researchers in Biology), Oct. 2002 – Sept. 2003.
+    fr: |
+      Présidence de l'Association des Étudiants Chercheurs en Biologie de
+      l'Université de Montréal (AECBUM), oct. 2002 – sept. 2003.
+  - entry5:
+    en: |
+      Scientific adviser and treasurer of the Société des Amis du Biodôme de
+      Montréal (SABM; Biodôme de Montréal is a zoological garden devoted to
+      ecosystems, [website](http://www2.ville.montreal.qc.ca/biodome/), Sept.
+      2000 -- August 2002.
+    fr: |
+      Conseiller scientifique et trésorier de la Société des Amis du Biodôme de
+      Montréal (SABM: http://www2.ville.montreal.qc.ca/biodome/), sept. 2000 --
+      août 2002.
+  - entry6:
+    en: |
+      Scuba diver certifications (CMAS since 15-05-2000, PADI Lake since
+      17-03-2000).
+    fr: |
+      Certifications de plongée avec bouteilles (CMAS, depuis 15-05-2000; PADI
+      Lac, depuis 17-03-2000).
+  - entry7:
+    en: "Class 5 (car) driver license (Québec, since 1993)."
+    fr: |
+      Permis de conduite de classe 5 (véhicule de promenade, Québec, depuis
+      1993).
+achievement:
+  prja:
+    - authors:
+      - Guénard, G.
+      - Legendre, P.
+      year: 2022
+      title: Hierarchical Clustering with Contiguity Constraint in R.
+      outlet: Journal of Statistical Software
+      number: 103
+      issue: 7
+      page: 1--26
+      doi: "10.18637/jss.v103.i07"
+    - authors:
+      - Guénard, G.
+      - Morin, J.
+      - Matte, P.
+      - Secretan, Y.
+      - Valiquette E.
+      - Mingelbier, M.
+      year: 2020
+      title: |
+        Deep learning habitat modeling for moving organisms in rapidly changing
+        estuarine environments: A case of two fishes.
+      outlet: Estuarine Coastal and Shelf Science
+      number: 238
+      issue: 106713
+      pages: 1--10
+      doi: "10.1016/j.ecss.2020.106713"
+    - authors:
+      - Guénard, G.
+      - Legendre, P.
+      year: 2018
+      title: |
+        Bringing multivariate support to multiscale codependence analysis:
+        assessing the drivers of community structure across spatial scales.
+      outlet: Methods in Ecology and Evolution
+      number: 9
+      issue: 2
+      page: 292--304
+      doi: "10.1111/2041-210X.12864"
+    - authors:
+      - Guénard, G.
+      - Lanthier, G.
+      - Harvey-Lavoie, S.
+      - Macnaughton, C. J.
+      - Senay, C.
+      - Lapointe, M.
+      - Legendre, P.
+      - Boisclair, D.
+      year: 2017
+      title: |
+        Modelling habitat distribution for multiple species using phylogenetics.
+      outlet: Ecography
+      number: 40
+      issue: 9
+      page: 1088--1097
+      doi: 10.1111/ecog.02423
+    - authors:
+      - Harvey-Lavoie, S.
+      - Cooke, S. J.
+      - Guénard, G.
+      - Boisclair, D.
+      year: 2016
+      title: |
+        Differences in movements of northern pike inhabiting rivers with
+        contrasting flow regimes.
+      outlet: Ecohydrology
+      number: 9
+      issue: 8
+      page: 1687--1699
+      doi: "10.1002/eco.1758"
+    - authors:
+      - Guénard, G.
+      - Lanthier, G.
+      - Harvey-Lavoie, S.
+      - Macnaughton, C. J.
+      - Senay, C.
+      - Lapointe, M.
+      - Legendre, P.
+      - Boisclair, D.
+      year: 2016
+      title: |
+        A spatially-explicit assessment of the fish population response to flow
+        management in a heterogeneous landscape.
+      outlet: Ecosphere
+      number: 7
+      issue: e01252
+      page: 1--13
+      doi: "10.1002/ecs2.1252"
+    - authors:
+      - Legendre, L. J.
+      - Guénard, G.
+      - Botha-Brink, J. 
+      - Cubo, J.
+      year: 2016
+      title: Palaeohistological evidence for ancestral endothermy in Archosaurs.
+      outlet: Systematic Biologie
+      number: 65
+      issue: 6
+      page: 989--996
+      doi: 10.1093/sysbio/syw033
+    - authors:
+      - Majal, E.
+      - Guénard, G.
+      - Schäfer, R. B.
+      - von der Ohe, P. C.
+      year: 2016
+      title: |
+        Evolutionary patterns and physicochemical properties explain
+        macroinvertebrate sensitivity to heavy metals.
+      outlet: Ecological Applications
+      number: 26
+      issue: 4
+      page: 1249--1259
+      doi: 10.1890/15-0346
+    - authors:
+      - Guénard, G.
+      - Boisclair, D.
+      - Legendre, P.
+      year: 2015
+      title: Phylogenetics to help predict active metabolism.
+      outlet: Ecophere
+      number: 6
+      issue: 62
+      page: 1--11
+      doi: "10.1890/ES14-00479.1"
+    - authors:
+      - Guénard, G.
+      - von der Ohe, P. C.
+      - Walker, S. C.
+      - Lek, S.
+      - Legendre, P.
+      year: 2014
+      title: |
+        Using phylogenetic information and chemical properties to predict
+        species tolerances to pesticides.
+      outlet: "Proceedings of the Royal Society B: Biological Sciences"
+      number: 281
+      issue: 20133239
+      page: 1--9
+      doi: "10.1098/rspb.2013.3239"
+    - authors:
+      - Guénard, G.
+      - Legendre, P.
+      - Peres-Neto, P.
+      year: 2013
+      title: |
+        Phylogenetic eigenvector maps (PEM): a framework to model and predict
+        species traits using directed graphs.
+      outlet: Methods in Ecology and Evolution
+      number: 4
+      issue: 12
+      page: 1120--1131
+      doi: "10.1111/2041-210X.12111"
+    - authors:
+      - Guénard, G.
+      - Boisclair, D.
+      - Ugedal, O.
+      - Forseth, T.
+      - Flemming, I. A.
+      - Jonsson, B.
+      year: 2012
+      title: |
+        The bioenergetics of density-dependent growth in Arctic char.
+      outlet: Canadian Journal of Fisheries and Aquatic Sciences
+      number: 69
+      issue: 10
+      page: 1651--1662
+      doi: "10.1139/F2012-093"
+    - authors:
+      - Guénard, G.
+      - Boisclair, D.
+      - Ugedal, O.
+      - Forseth, T.
+      - Flemming, I. A.
+      - Jonsson, B.
+      year: 2012
+      title: |
+        An experimental study of the multiple effects of brown trout, _Salmo_
+        _trutta_, on the bioenergetics of two Arctic char, _Salvelinus_
+        _alpinus_, morphs.
+      outlet: Journal of Fish Biology
+      number: 81
+      issue: 4
+      page: 1248--1270
+      doi: "10.1111/j.1095-8649.2012.03414.x"
+    - authors:
+      - Walker, S. C.
+      - Guénard, G.
+      - Sólymos, P.
+      - Legendre, P.
+      year: 2012
+      title: Multiple-Table Data in R with the multitable Package.
+      outlet: Journal of Statistical Software
+      number: 51
+      issue: 8
+      page: 1--38
+      doi: "10.18637/jss.v051.i08"
+    - authors:
+      - Guénard, G.
+      - von der Ohe, P. C.
+      - de Zwart, D.
+      - Legendre, P.
+      - Lek, S.
+      year: 2011
+      title: |
+        Using phylogenetic information to predict tolerance to toxic chemicals.
+      outlet: Ecological Applications
+      number: 21
+      issue: 8
+      page: 3178--3190
+      doi: "10.1890/10-2242.1"
+    - authors:
+      - Guénard, G.
+      - Legendre, P.
+      - Boisclair, D.
+      - Bilodeau, M.
+      year: 2010
+      title: |
+        Multiscale codependence analysis: an integrated approach to analyse
+        relationships across scales.
+      outlet: Ecology
+      number: 91
+      issue: 10
+      page: 2952--2964
+      doi: "10.1890/09-0460.1"
+    - authors:
+      - Guénard, G.
+      - Boisclair, D.
+      - Ugedal, O.
+      - Forseth, T.
+      - Flemming, I. A.
+      - Jonsson, B.
+      year: 2010
+      title: |
+        Bioenergetic and behavioural differences between two morphologically
+        distinct Arctic charr populations.
+      outlet: Canadian Journal of Fisheries and Aquatic Sciences
+      number: 67
+      issue: 3
+      page: 580–595
+      doi: "10.1139/F10-004"
+    - authors:
+      - Shinn, C.
+      - Dauba, F.
+      - Grenouillet, G.
+      - Guénard, G.
+      - Lek, S.
+      year: 2009
+      title: |
+        Temporal Variation of Heavy Metal Contamination in Fish of the River Lot
+        in Southern France.
+      outlet: Ecotoxicology and Environmental Safety
+      number: 72
+      issue: 7
+      page: 1957--1965
+      doi: "10.1016/j.ecoenv.2009.06.007"
+    - authors:
+      - Guénard, G.
+      - Boisclair, D.
+      - Ugedal, O.
+      - Forseth, T.
+      - Jonsson, B.
+      year: 2008
+      title: |
+        Comparison between activity estimates obtained using bioenergetic and
+        behavioural analyses.
+      outlet: Canadian Journal of Fisheries and Aquatic Sciences
+      number: 65
+      issue: 8
+      page: 1705--1720
+      doi: "10.1139/F08-080"
+    - authors:
+      - Chidami, S.
+      - Guénard, G.
+      - Amyot, M.
+      year: 2007
+      title: |
+        Underwater infrared video system for behavioral studies in lakes.
+      outlet: "Limnology and Oceanography: Methods"
+      number: 5
+      issue: 10
+      page: 571--578
+      doi: "10.4319/lom.2007.5.371"
+  presentation:
+    - authors:
+      - Morin, J.
+      - Bachand, M.
+      - Guénard, G.
+      - Werick, B.
+      year: 2017
+      title: |
+        An ecosystem-friendly rule curve for the Rainy-Namakan system.
+      event: "International Rainy-Lake of the Woods Watershed Forum"
+      place:
+        en: International Falls, MN, USA
+        fr: International Falls, MN, É-U.A.
+    - authors:
+      - Guénard, G.
+      - Lanthier, G.
+      - Harvey-Lavoie, S.
+      - Macnaughton, C. J.
+      - Senay, C.
+      - Lapointe, M.
+      - Legendre, P.
+      - Boisclair, D.
+      year: 2017
+      title: |
+        Community-wide habitat modelling with phylogenetic and spatial
+        eigenvector maps: river fishes distribution.
+      event: "Canadian Conference for Fisheries Research"
+      place: 
+        en: Montreal, QC, Canada
+        fr: Montréal, QC, Canada
+    - authors:
+      - Guénard, G.
+      - Harvey-Lavoie, S.
+      - Macnaughton, C. J.
+      - Senay, C.
+      - Boisclair, D.
+      year: 2015
+      title: |
+        Cartographie de l'effet de différents régimes de débit sur la densité et
+        la diversité des poissons.
+      event: "Symposium du Groupe de Recherche Inter-universitaire en Limnologie"
+      place:
+        en: St-Hypolite, QC, Canada
+        fr: St-Hypolite, QC, Canada
+    - authors:
+      - Guénard, G.
+      - Harvey-Lavoie, S.
+      - Macnaughton, C. J.
+      - Senay, C.
+      - Boisclair, D.
+      year: 2014
+      title: |
+        Assessing the effect of flow regimes on fish density.
+      event: "American Fisheries Society Annual Meeting"
+      place:
+        en: Quebec City, QC, Canada
+        fr: Ville de Québec, QC, Canada
+    - authors:
+      - Harvey-Lavoie, S.
+      - Guénard, G.
+      - Wheeland, L.
+      - Cooke, S. J.
+      - Boisclair, D.
+      year: 2014
+      title: |
+        Modelling northern pike habitat selection in a river subject to
+        hydropeaking.
+      event: "ISE Ecohydraulics conference"
+      place:
+        en: Trondheim, Norway
+        fr: Trondheim, Norvège
+    - authors:
+      - Boisclair, D.
+      - Cooke, S. J.
+      - McLaughlin, R.
+      - Guénard, G.
+      year: 2014
+      title: |
+        An ecosystemic approach to assess the effects of flow modifications
+        related to hydropower on fish populations.
+      event: "ISE Ecohydraulics conference"
+      place:
+        en: Trondheim, Norway
+        fr: Trondheim, Norvège
+    - authors:
+      - Boisclair, D.
+      - Cooke, S. J.
+      - McLaughlin, R.
+      - Guénard, G.
+      year: 2013
+      title: |
+        A framework to assess the consequences of the fragmentation of aquatic
+        ecosystems on fisheries productivity.
+      event: "Biophysical Coupling Workshop of the Great Lakes Fisheries Commission"
+      place:
+        en: Huron, Ohio, USA
+        fr: Huron, Ohio, É-U.A.
+    - authors:
+      - Guénard, G.
+      - Walker, S. C.
+      - von der Ohe, P. C.
+      - Legendre, P.
+      year: 2013
+      title: |
+        Phylogenetics to help predicting fish swimming costs.
+      event: "Canadian Conference for Fisheries Research"
+      place:
+        en: Windsor, ON, Canada
+        fr: Windsor, ON, Canada
+    - authors:
+      - Guénard, G.
+      - Walker, S. C.
+      - von der Ohe, P. C.
+      - Legendre, P.
+      year: 2012
+      title: |
+        Predicting the tolerance of animal species to chemical using
+        phylogenetics and linear solvation energy parameters.
+      event: "Symposium of the Society for Environmental Toxicology and Chemistry"
+      place:
+        en: Long Beach, CA, USA
+        fr: Long Beach, CA, É.-U.A.
+    - authors:
+      - Guénard, G.
+      - von der Ohe, P. C.
+      - Walker, S. C.
+      - Legendre, P.
+      year: 2012
+      title: |
+        Adding phylogenetic information to predicting tolerance to chemicals.
+      event: "Canadian Conference for Fisheries Research"
+      place:
+        en: Moncton, NB, Canada
+        fr: Moncton, NB, Canada
+    - authors:
+      - Walker, S. C.
+      - Guénard, G.
+      - Legendre, P.
+      year: 2011
+      title: |
+        Community ecology with multiple data tables: the interface between data
+        management and analysis.
+      event: "Ecological Society of America (ESA) Annual Conference"
+      place:
+        en: Austin, TX, USA
+        fr: Austin, TX, É.-U.A.
+    - authors:
+      - Guénard, G.
+      - Walker, S. C.
+      - von der Ohe, P. C.
+      - Legendre, P.
+      year: 2011
+      title: |
+        Predicting tolerance to pesticides using phylogeny and compound
+        properties.
+      event: "Symposium du Groupe de Recherche Inter-universitaire en Limnologie"
+      place:
+        en: St-Hypolite, QC, Canada
+        fr: St-Hypolite, QC, Canada
+    - authors:
+      - Faggiano, L.
+      - Guénard, G.
+      - Gevrey, M.
+      - Lek, S.
+      year: 2010
+      title: |
+        Improving data sampling for better ecosystem diagnostic.
+      event: "Keybioeffect workshop"
+      place:
+        en: Girona, Spain
+        fr: Girona, Espagne
+    - authors:
+      - Guénard, G.
+      - von der Ohe, P. C.
+      - Lek, S.
+      year: 2009
+      title: |
+        A spatially-explicit assessment of pollutants impact and
+        macro-invertebrates diversity and community structure in Danube river.
+      event: "Final Modelkey conference"
+      place:
+        en: Leipzig, Germany
+        fr: Leipzig, Allemagne
+    - authors:
+      - Guénard, G.
+      - von der Ohe, P. C.
+      - Lek, S.
+      year: 2009
+      title: |
+        Spatial correspondence of chemical status and macro-invertebrates
+        diversity in Danube river.
+      event: "Symposium of the Society for Environmental Toxicology and Chemistry"
+      place:
+        en: New-Orleans, LA, USA
+        fr: Nouvelle Orléans, LA, É.-U.A.
+    - authors:
+      - Guénard, G.
+      - de Zwart, D.
+      - von der Ohe, P. C.
+      - Lek, S.
+      year: 2009
+      title: |
+        Predicting sensitivity to pollutants using molecular characters.
+      event: "International Symposium for Toxicity Assessment"
+      place:
+        en: Metz, France
+        fr: Metz, France
+    - authors:
+      - Guénard, G.
+      - Boisclair, D.
+      year: 2008
+      title: |
+        Différences morphologiques, comportementales chez deux populations
+        d'omble chevalier et leurs impact sur la croissance, la consommation et
+        l'activité.
+      event: "Symposium du Groupe de Recherche Inter-universitaire en Limnologie"
+      place:
+        en: Harrington, QC, Canada
+        fr: Harrington, QC, Canada
+    - authors:
+      - Guénard, G.
+      - Boisclair, D.
+      year: 2008
+      title: |
+        Differences in morphology, energy budget, and activity patterns between
+        arctic charr from two contrasting populations.
+      event: "Canadian Conference for Fisheries Research"
+      place:
+        en: Halifax, NS, Canada
+        fr: Halifax, NE, Canada
+    - authors:
+      - Chidami, S.
+      - Guénard, G.
+      - Amyot, M.
+      year: 2007
+      title: |
+        Fish decomposition in boreal lakes and biogeochemical implications.
+      event: "Canadian Society for Ecology and Evolution"
+      place:
+        en: Toronto, ON, Canada
+        fr: Toronto, ON, Canada
+    - authors:
+      - Guénard, G.
+      - Legendre, P.
+      - Boisclair, D.
+      - Bilodeau, M.
+      year: 2007
+      title: |
+        Une méthode multi-échelle pour décrire la dépendance spatiale commune
+        entre l'abondance des tacons de saumon de l'At-lantique (_Salmo salar_,
+        L.) et les variables environnementales utilisées comme descripteurs de
+        leur habitat en rivière.
+      event: "Symposium du Groupe de Recherche Inter-universitaire en Limnologie"
+      place:
+        en: Harrington, QC, Canada
+        fr: Harrington, QC, Canada
+    - authors:
+      - Guénard, G.
+      - Boisclair, D.
+      year: 2006
+      title: |
+        Assessing the effect of fish density on the consumption and activity
+        rate of Arctic charr.
+      event: "Canadian Conference for Fisheries Research"
+      place:
+        en: Calgary, AB, Canada
+        fr: Calgary, AB, Canada
+    - authors:
+      - Guénard, G.
+      - Boisclair, D.
+      year: 2005
+      title: |
+        Experimental comparison of activity measurements made using spontaneous
+        swimming models and caesium bio-accumulation in fish.
+      event: "Canadian Conference for Fisheries Research"
+      place:
+        en: Windsor, ON, Canada
+        fr: Windsor, ON, Canada
+    - authors:
+      - Guénard, G.
+      - Legendre, P.
+      - Boisclair, D.
+      year: 2005
+      title: |
+        Describing the habitat of Atlantic salmon parr (_Salmo salar_) using the
+        common spatial dependence between fish abundance and environmental
+        variables: validation and application of a new multi-scale method.
+      event: "Ecological Society of America / INTECOL joint meeting"
+      place:
+        en: Montreal, QC, Canada
+        fr: Montréal, QC, Canada
+    - authors:
+      - Guénard, G.
+      - Boisclair, D.
+      year: 2001
+      title: |
+        Perspective of the predator-prey relationship through different spatial
+        scales using horizontal hydro-acoustic scanning approach.
+      event: "Canadian Conference for Fisheries Research"
+      place:
+        en: Toronto, ON, Canada
+        fr: Toronto, ON, Canada
+  report:
+  - authors:
+    - Guénard, G.
+    year: 2018
+    title:
+      en: |
+        _Environmental conditions structuring benthic invertebrate communities_
+        _in the St. Lawrence River: evidencing the effect of chemical pollution_
+        (in French).
+      fr: |
+        _Conditions environnementales structurant les communautés d'invertébrés_
+        _benthiques dans le fleuve Saint-Laurent : mettre en évidence l'effet_
+        _de la pollution chimique_.
+    series:
+      en: "Water Quality Monitoring and Surveillance Division, Environment and climate changes Canada"
+      fr: "Division de monitoring et surveillance de la qualité de l'eau, Environnement et changements climatiques Canada"
+    number: "Contract #3000656770"
+    place:
+      en: "Montreal, QC, Canada"
+      fr: "Montréal, QC, Canada"
+    page: "20 pp."
+    url: "http://www.dx.doi.org/10.13140/RG.2.2.29334.80962"
+  - authors:
+    - Morin, J.
+    - Bachand, M.
+    - Richard, J. H.
+    - Champoux, O.
+    - Martin, S.
+    - Guénard, G.
+    year: 2016
+    title:
+      en: |
+        _Habitat modeling of the Lake Sturgeon and Walleye spawning habitat of
+        the Rainy River_. Prepared for the International Join Commission (IJC).
+      fr: |
+        _Habitat modeling of the Lake Sturgeon and Walleye spawning habitat of
+        the Rainy River_. Prepared pour la commission mixte internationale
+        (CMI).
+    series:
+      en: "Hydrology and Ecohydraulics Section, Environment and Climate Change Canada"
+      fr: "Section hydrologie et écohydraulique, Environnement et changements climatiques Canada"
+    number: "Scientific Report SR111 MSC"
+    place:
+      en: "Quebec City, QC, Canada"
+      fr: "Ville de Québec, QC, Canada"
+    page: "132 pp."
+    url: "http://www.dx.doi.org/10.13140/RG.2.2.17905.28004"
+  - authors:
+    - Boisclair, D.
+    - Lapointe, M.
+    - Saint-Hilaire, A.
+    - Rasmussen, J. B.
+    - Senay, C.
+    - Lanthier, G.
+    - Bourque, G.
+    - Guénard, G.
+    - Macnaughton, C. J.
+    - Harvey-Lavoie, S.
+    year: 2016
+    title:
+      en: |
+        _Modelling the effects of chemical and physical drivers on fisheries_
+        _productivity metrics across rivers of varying hydrological regimes:_
+        _lessons learned from NSERC HydroNet_ 2009-2015.
+      fr: |
+        _Modélisation des effets des facteurs chimiques et physiques sur les_
+        _paramètres de productivité des pêches dans des rivières ayant des_
+        _régimes hydrologiques différents : leçons retenues du réseau HydroNet_
+        du CRSNG de 2009 à 2015_
+    series:
+      en: "Science Advisisory Secretariat Research Document"
+      fr: "Document du secrétariat canadien de consultation scientifique"
+    place:
+      en: "Department of Fisheries and Oceans Canada"
+      fr: "Pêches et Océans Canada"
+    number: "2016/033"
+    page: viii + 61 p.
+    url: "http://www.dfo-mpo.gc.ca/csas-sccs/Publications/ResDocs-DocRech/2016/2016_033-eng.html"
+  - authors:
+    - Guénard, G.
+    - Boisclair, D.
+    year: 2015
+    title:
+      en: |
+        _Data and literature review on the bioenergetics of Salmoninae for Mid_
+        _Columbia River Adult Habitat use Assessment_ (CLBMON-18). Prepared for
+        BC Hydro, P.O. Box 8910 Vancouver, B.C. V6B 4N1, Canada.
+      fr: |
+        _Data and literature review on the bioenergetics of Salmoninae for Mid_
+        _Columbia River Adult Habitat use Assessment_ (CLBMON-18). Préparé pour
+        BC Hydro, P.O. Box 8910 Vancouver, B.C. V6B 4N1, Canada.
+    series:
+     en: "Département de sciences biologiques"
+     fr: "Département de sciences biologiques"
+    place:
+      en: "Université de Montréal C.P. 6128 succ. centre-ville Montreal QC, Canada"
+      fr: "Université de Montréal C.P. 6128 succ. centre-ville Montréal QC, Canada"
+    page: "25 pp."
+    url: "http://www.dx.doi.org/10.13140/RG.2.2.20526.77124"
+  - authors:
+    - Ugedal, O.
+    - Forseth, T.
+    - Jonsson, B.
+    - Daverdin, R.
+    - Einum, S.
+    - Fleming, I.
+    - Saksgård, R.
+    - Boisclair, D.
+    - Guénard, G.
+    year: 2005
+    title:
+      en: |
+        _Competition within and between fish species – preliminary research_ (In
+        Norwegian). Page 67–69 in Jonsson, B. & Yoccoz, N. G. (eds.)
+        _Ecosystem dynamics: human impact on biodiversity. NINA's strategic_
+        _institute programs 2001–2005_ (In Norwegian).
+      fr: |
+        _Compétition au sein d'une espèce et entre espèces de poisson –_
+        _recherche préliminaire_ (en norvégien). Pages 67–69 de Jonsson, B. &
+        Yoccoz, N. G. (éditeurs) _Dynamique écosystémique: impact anthropique_
+        _sur la biodiversité. Programme stratégique de l'institut NINA 2001-_
+        _2005_ (en norvégien).
+    series:
+      en: "NINA Temahefte"
+      fr: "NINA Temahefte"
+    place:
+      en: "Norsk Institutt for Naturforskning, Trondheim, Norway"
+      fr: "Norsk Institutt for Naturforskning, Trondheim, Norvège"
+    number: 33
+    page: "89 pp."
+    url: "http://www.nina.no/archive/nina/PppBasePdf/temahefte/033.pdf"
+  software:
+  - authors:
+    - Dray, S.
+    - Bauman, D.
+    - Blanchet, G.
+    - Borcard, D.
+    - Clappe, S.
+    - Guenard, G.
+    - Jombart, T.
+    - Larocque, G.
+    - Legendre, P.
+    - Madi, N.
+    - Wagner, H.
+    year: 2022
+    name: adespatial
+    title: |
+      _adespatial: Multivariate Multiscale Spatial Analysis_.
+    description: |
+      Tools for the multiscale spatial analysis of multivariate data. Several
+      methods are based on the use of a spatial weighting matrix and its
+      eigenvector decomposition (Moran's Eigenvectors Maps, MEM).
+    version: "R package version 0.3-20"
+    url: "https://CRAN.R-project.org/package=adespatial"
+    maintainer: false
+  - authors:
+    - Legendre, P.
+    - Guénard, G.
+    year: 2022
+    name: constr.hclust
+    title: "Space- And Time-Constrained Clustering Package."
+    description: |
+      Space-constrained or time-constrained agglomerative clustering from a
+      multivariate dissimilarity matrix.
+    version: "R package version 1.6-2"
+    url: "https://github.com/guenardg/constr.hclust.git"
+    maintainer: true
+  - authors:
+    - Guénard, G.
+    - Legendre, P.
+    year: 2022
+    name: MPSEM
+    title: "MPSEM: Modeling Phylogenetic Signals using Eigenvector Maps."
+    description: |
+      Computational tools to represent phylogenetic signals using adapted
+      eigenvector maps.
+    version: "R package version 0.4-1"
+    url: "https://CRAN.R-project.org/package=MPSEM"
+    maintainer: true
+  - authors:
+    - Guénard, G.
+    - Legendre, P.
+    - Pages B.
+    year: 2018
+    name: codep
+    title: "Multiscale Codependence Analysis."
+    description: |
+      Computation of Multiscale Codependence Analysis and spatial eigenvector
+      maps, as an additional feature.
+    version: "R package version 0.9-1"
+    url: "https://CRAN.R-project.org/package=codep"
+    maintainer: true
+  - authors:
+    - Legendre, P.
+    - Guénard, G.
+    year: 2018
+    name: WR
+    title: "Whittaker-Robinson Periodogram Through a C Function"
+    description: |
+      Whittaker-Robinson periodogram for univariate series of quantitative data,
+      with permutation tests.
+    version: "R package version 1.0-1"
+    url: "https://github.com/guenardg/Whittaker-Robinson.git"
+    maintainer: false
+anticipated:
+  - authors:
+    - Guénard, G.
+    - Harvey-Lavoie, S.
+    - Wheeland, L.
+    - Cooke, S. J.
+    - Boisclair, D.
+    title: |
+      A novel analytic framework to integrate the effect of a contextual
+      variable into habitat use models using presence-only data.
+    type: Article
+  - authors:
+    - Guénard, G.
+    - Harvey-Lavoie, S.
+    - MacNaughton, C. J.
+    - Senay, C.
+    - Boisclair, D.
+    - Legendre, P.
+    title: |
+      An spatially-explicit assessment of the physical drivers of fish community
+      assemblages in regulated and unregulated rivers.
+    type: Article
+---

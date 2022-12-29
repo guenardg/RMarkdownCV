@@ -1,0 +1,149 @@
+---
+title: "List of achievements"
+author: "Guillaume Guénard, Ph. D. Biology"
+date: 'Compiled: `r format(Sys.time(), "%Y-%m-%d")`'
+output:
+  html_document: default
+  word_document: default
+  pdf_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+library(yaml)
+library(magrittr)
+
+enumerate <- function(x, and = " & ") {
+  if(length(x) == 1L) {
+    x
+  } else {
+    y <- rep("", length(x))
+    y[length(y) - 1L] <- and
+    if(length(y) > 2L) y[1L:(length(y)-2L)] <- ", "
+    paste(paste(x,y,sep=""),collapse="")
+  }
+}
+
+lang <- "en"
+
+"../CVcontents.yml" %>%
+  yaml.load_file -> contents
+```
+
+**Address:** 2243 rue du Coteau, Saint-Lin-Laurentides QC, J5M 1Z9, Canada,
+(514) 707-9569
+
+---
+
+# Peer-reviewed journal articles
+
+```{r, echo = FALSE, results='asis'}
+contents$achievement$prja %>%
+  lapply(
+    function(x) {
+      cat(
+        "- ",
+        enumerate(x$authors), " ",
+        x$year,". _",
+        x$title,"_ ",
+        x$outlet," ",
+        x$number,"(",x$issue,")",
+        if(!is.null(x$page)) paste(":",x$page) else " ",
+        " doi: [",x$doi,"](https://doi.org/",x$doi,")",
+        "\n\n",
+        sep=""
+      )
+    }
+  ) %>% invisible
+```
+
+---
+
+# Authored conference presentations
+
+```{r, echo = FALSE, results='asis'}
+contents$achievement$presentation %>%
+  lapply(
+    function(x, lang) {
+      cat(
+        "- ",
+        enumerate(x$authors), " ",
+        x$year,". _",
+        x$title,"_ ",
+        x$event," -- ",
+        x$place[[lang]],
+        "\n\n",
+        sep=""
+      )
+    },
+    lang = lang
+  ) %>% invisible
+```
+
+---
+
+# Research reports
+
+```{r, echo = FALSE, results='asis'}
+contents$achievement$report %>%
+  lapply(
+    function(x, lang) {
+      cat(
+        "- ",
+        enumerate(x$authors), " ",
+        x$year,". ",
+        x$title[[lang]]," ", x$series[[lang]], ". ",
+        if(!is.null(x$number)) paste(" ", x$number, ". ", sep="") else ". ",
+        x$place[[lang]], ". ",
+        x$page, if(!is.null(x$url)) " [LINK](",x$url,")",
+        "\n\n",
+        sep=""
+      )
+    },
+    lang = lang
+  ) %>% invisible
+## contents$achievement$report[[2L]] -> x
+```
+
+---
+
+# Software packages
+
+```{r, echo = FALSE, results='asis'}
+contents$achievement$software %>%
+  lapply(
+    function(x, lang) {
+      cat(
+        "[",x$name,"](",x$url,")\n: ",
+        enumerate(x$authors), " ",
+        x$year,". ",
+        x$title," Description: ", x$description, " ", x$version,
+        "\n\n",
+        sep=""
+      )
+    },
+    lang = lang
+  ) %>% invisible
+```
+
+---
+
+# Work in progress (short list)
+
+```{r, echo = FALSE, results='asis'}
+contents$anticipated %>%
+  lapply(
+    function(x, lang) {
+      cat(
+        "- ", enumerate(x$authors), " _",
+        x$title, "_ [",x$type,"]",
+        "\n\n",
+        sep=""
+      )
+    },
+    lang = lang
+  ) %>% invisible
+```
+
+---

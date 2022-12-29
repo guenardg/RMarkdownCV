@@ -1,0 +1,332 @@
+---
+title: "Curriculum Vitae"
+author: "Guillaume Guénard"
+date: 'Compilation: `r format(Sys.time(), "%Y-%m-%d")`'
+output:
+  html_document: default
+  pdf_document: default
+  word_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+library(yaml)
+library(magrittr)
+
+enumerate <- function(x, and = " & ") {
+  if(length(x) == 1L) {
+    x
+  } else {
+    y <- rep("", length(x))
+    y[length(y) - 1L] <- and
+    if(length(y) > 2L) y[1L:(length(y)-2L)] <- ", "
+    paste(paste(x,y,sep=""),collapse="")
+  }
+}
+
+lang <- "fr"
+
+"../CVcontents.yml" %>%
+  yaml.load_file -> contents
+```
+
+```{r, echo = FALSE, results='asis'}
+contents$contact[[lang]] %>%
+  cat("**Contacte:** ",.,"\n",sep="")
+
+contents$links %>%
+  lapply(
+    function(x)
+      paste("[",x$label,"](",x$url,")\n\n",sep="") %>% cat
+  ) %>% invisible
+```
+
+---
+
+## Intérêts
+
+```{r, echo = FALSE, results='asis'}
+contents$interests %>%
+  lapply(
+    function(x, lang)
+      x[[lang]] %>% paste("-",.) %>% paste(collapse="\n\n") %>% cat,
+    lang = lang
+  ) %>% invisible
+```
+
+---
+
+## Expérience de travail
+
+```{r, echo = FALSE, results='asis'}
+contents$experience %>%
+  lapply(
+    function(x, lang) {
+      cat(
+        x$position[[lang]],
+        " [",x$date,"]\n: ",
+        x$place[[lang]],"-- ",
+        x$work[[lang]],"-- Superviseur(es): ",
+        x$supervisor,
+        "\n\n",
+        sep=""
+      )
+    },
+    lang = lang
+  ) %>% invisible
+```
+
+---
+
+## Éducation
+
+```{r, echo = FALSE, results='asis'}
+contents$education %>%
+  lapply(
+    function(x, lang) {
+      cat(
+        x$ending, " --- ", x$degree[[lang]], "\n: ",
+        x$institution," ",
+        if(!is.null(x$description[[lang]])) paste(" -- ", x$description[[lang]]),
+        if(!is.null(x$director)) paste(" Directeur: ", x$director),
+        "\n\n",
+        sep=""
+      )
+    },
+    lang = lang
+  ) %>% invisible
+```
+
+---
+
+## Accomplissements (énumérés à la fin du présent document)
+
+```{r, echo = FALSE, results='asis'}
+contents$achievement$prja %>%
+  lapply(function(x) x$authors[1L]) %>%
+  unlist -> fauth
+
+contents$achievement$prja %>%
+  lapply(function(x) x$authors) %>%
+  unlist %>% unique %>% sort -> alist
+
+contents$achievement$prja %>%
+  lapply(function(x) x$outlet) %>%
+  unlist %>% unique %>% sort -> jlist
+
+contents$achievement$presentation  %>%
+  lapply(function(x) x$event) %>%
+  unlist %>% unique %>% sort -> plist
+
+contents$achievement$presentation %>%
+  lapply(function(x) x$authors[1L]) %>%
+  unlist -> fpauth
+
+contents$achievement$presentation %>%
+  lapply(function(x) x$authors) %>%
+  unlist %>% unique %>% sort -> aplist
+
+contents$achievement$report  %>%
+  lapply(function(x, lang) x$series[[lang]], lang=lang) %>%
+  unlist %>% unique %>% sort -> prlist
+
+contents$achievement$software  %>%
+  lapply(function(x) x$name) %>% unlist -> pkgname
+
+contents$achievement$software  %>%
+  lapply(function(x) x$maintainer) %>% unlist -> pkgmain
+```
+
+Articles
+: **`r length(contents$achievement$prja)`** articles (tous en Anglais, dont
+**`r sum(fauth == "Guénard, G.")`** comme premier auteur) dans
+**`r length(jlist)`** revues scientifiques avec comité de lecture:
+`r enumerate(jlist, and = " et ")` avec la collaboration de
+**`r length(alist) - 1L`** collègues scientifiques.
+
+Presentations
+: **`r length(contents$achievement$presentation)`** présentations (en Anglais et
+en Français; **`r sum(fpauth == "Guénard, G.")`** comme présentateur principal)
+à **`r length(plist)`** symposia nationaux et internationaux:
+`r enumerate(plist, and = ", and ")`; avec la collaboration de
+**`r length(aplist) - 1L`** collègues scientifiques.
+
+Rapports de recherche
+: **`r length(contents$achievement$report)`** rapports de recherche publiés par
+différentes institutions (`r enumerate(prlist, and = " et ")`).
+
+Développement de logiciel
+: Contribution dans **`r length(contents$achievement$software)`** bibliothèques
+en langage R et agissant à titre de développeur principal pour
+**`r sum(pkgmain)`** d'entre elles
+(`r enumerate(pkgname[pkgmain], and = " et ")`).
+
+---
+
+## Bourses
+
+```{r, echo = FALSE, results='asis'}
+contents$award %>%
+  lapply(
+    function(x, lang) {
+      cat(
+        x$name[[lang]]," (",x$date,"; ",x$amount,")",
+        "\n\n",
+        sep=""
+      )
+    },
+    lang = lang
+  ) %>% invisible
+```
+
+---
+
+## Enseignement
+
+```{r, echo = FALSE, results='asis'}
+contents$teaching %>%
+  lapply(
+    function(x, lang) {
+      cat(
+        "**", x$date, "** ", x$assignment[[lang]], " -- ",
+        x$place[[lang]], " _", x$task[[lang]], "_ ",
+        if(!is.null(x$supervisor)) paste("Superviseur(es): ", x$supervisor),
+        "\n\n",
+        sep=""
+      )
+    },
+    lang = lang
+  ) %>% invisible
+```
+
+---
+
+## Activités professionnelles, qualifications et services rendus
+
+```{r, echo = FALSE, results='asis'}
+contents$paqs %>%
+  lapply(
+    function(x, lang)
+      x[[lang]] %>% paste("-",.) %>% paste(collapse="\n\n") %>% cat,
+    lang = lang
+  ) %>% invisible
+```
+
+---
+
+\newpage
+
+# Liste d'accomplissements
+
+## Articles dans des revues scientifiques avec comité de lecture
+
+```{r, echo = FALSE, results='asis'}
+contents$achievement$prja %>%
+  lapply(
+    function(x) {
+      cat(
+        "- ",
+        enumerate(x$authors), " ",
+        x$year,". _",
+        x$title,"_ ",
+        x$outlet," ",
+        x$number,"(",x$issue,")",
+        if(!is.null(x$page)) paste(":",x$page) else " ",
+        " doi: [",x$doi,"](https://doi.org/",x$doi,")",
+        "\n\n",
+        sep=""
+      )
+    }
+  ) %>% invisible
+```
+
+---
+
+## Présentations de symposium
+
+```{r, echo = FALSE, results='asis'}
+contents$achievement$presentation %>%
+  lapply(
+    function(x, lang) {
+      cat(
+        "- ",
+        enumerate(x$authors), " ",
+        x$year,". _",
+        x$title,"_ ",
+        x$event," -- ",
+        x$place[[lang]],
+        "\n\n",
+        sep=""
+      )
+    },
+    lang = lang
+  ) %>% invisible
+```
+
+---
+
+## Rapports de recherche
+
+```{r, echo = FALSE, results='asis'}
+contents$achievement$report %>%
+  lapply(
+    function(x, lang) {
+      cat(
+        "- ",
+        enumerate(x$authors), " ",
+        x$year,". ",
+        x$title[[lang]]," ", x$series[[lang]], ". ",
+        if(!is.null(x$number)) paste(" ", x$number, ". ", sep="") else ". ",
+        x$place[[lang]], ". ",
+        x$page, if(!is.null(x$url)) " [LIEN](",x$url,")",
+        "\n\n",
+        sep=""
+      )
+    },
+    lang = lang
+  ) %>% invisible
+## contents$achievement$report[[2L]] -> x
+```
+
+---
+
+## Développement de logiciel
+
+```{r, echo = FALSE, results='asis'}
+contents$achievement$software %>%
+  lapply(
+    function(x, lang) {
+      cat(
+        "[",x$name,"](",x$url,")\n: ",
+        enumerate(x$authors), " ",
+        x$year,". ",
+        x$title," Description: ", x$description, " ", x$version,
+        "\n\n",
+        sep=""
+      )
+    },
+    lang = lang
+  ) %>% invisible
+```
+
+---
+
+## Travaux en cours
+
+```{r, echo = FALSE, results='asis'}
+contents$anticipated %>%
+  lapply(
+    function(x, lang) {
+      cat(
+        "- ", enumerate(x$authors), " _",
+        x$title, "_ [",x$type,"]",
+        "\n\n",
+        sep=""
+      )
+    },
+    lang = lang
+  ) %>% invisible
+```
+
+---
