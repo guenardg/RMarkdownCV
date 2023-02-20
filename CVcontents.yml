@@ -7,7 +7,7 @@ links:
     url: https://scholar.google.ca/citations?user=Fxgco7UAAAAJ&hl=en
 description:
   en: |
-    Research scientific in biology, biostatistics, bioinformatics, applied
+    Research scientist in biology, biostatistics, bioinformatics, applied
     mathematics, spatial analysis, machine learning, and data science
   fr: |
     Scientific de recherche en biologie, biostatistiques, bioinformatique,
@@ -322,7 +322,7 @@ experience:
 education:
   - degree:
       en: Doctor of Philosophy (_Ph. D._) in Biology
-      fr: Doctorat de phylosophie (_Ph. D._) en biologie
+      fr: Doctorat de philosophie (_Ph. D._) en biologie
     ending: 2008-08
     institution: Université de Montréal
     description:
